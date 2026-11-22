@@ -1,4 +1,3 @@
-// @ts-expect-error Global CSS is handled by Next.js, not TypeScript.
 import '@/app/ui/global.css';
 import { inter, lusitana } from '@/app/ui/fonts';
 
